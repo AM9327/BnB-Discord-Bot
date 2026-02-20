@@ -1,2 +1,2 @@
-# BnB-Discord-Bot
+# Boards&Bytes-Discord-Bot
 Discord Bot for the Club
